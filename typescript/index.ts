@@ -52,3 +52,14 @@ dados.pop();
 let aniversario: Date = new Date("2023-05-10 09:34");
 console.log(aniversario.toString());
 
+
+
+// funções
+
+function addnumber(x:number, y:number): number{
+    return x + y;
+
+}
+
+let soma: number = addnumber(4, 7);
+console.log(soma);
