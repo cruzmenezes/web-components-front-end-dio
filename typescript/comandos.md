@@ -19,3 +19,16 @@
 ### criando arquivo de configuração e execução no typescript.
 
             npx tsc --init
+
+
+### instalando uma dependencia no vscode para não ter que gerar toda hora uma nova build typescript.
+
+                npm install ts-node-dev -D
+
+### para executar
+
+                npm run start:dev
+
+
+
+
